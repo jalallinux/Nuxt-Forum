@@ -54,5 +54,11 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
+.v-list-item > .v-list-item__action {
+  margin-left: 8px !important;
+}
+footer > span > a {
+  text-decoration: none;
+}
 </style>

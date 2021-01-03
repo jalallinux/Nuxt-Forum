@@ -41,7 +41,4 @@ export default {
 </script>
 
 <style scoped>
-.v-list-item > .v-list-item__action {
-  margin-left: 8px !important;
-}
 </style>

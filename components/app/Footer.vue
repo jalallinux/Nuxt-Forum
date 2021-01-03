@@ -15,7 +15,4 @@ export default {
 </script>
 
 <style scoped>
-footer > span > a {
-  text-decoration: none;
-}
 </style>
